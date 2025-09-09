@@ -1,6 +1,7 @@
-OS Samans - Interactive Portfolio Operating System
+# OS Samans - Interactive Portfolio Operating System
 
-OS Samans is a desktop-style interactive portfolio** that brings a unique twist to showcasing personal information and projects. Built with **HTML, CSS, and JavaScript, it functions like a lightweight operating system interface, integrating all sections of a personal portfolio into a cohesive 3D desktop experience.
+**OS Samans** is a **desktop-style interactive portfolio** that brings a unique twist to showcasing personal information and projects. Built with **HTML, CSS, and JavaScript**, it functions like a lightweight operating system interface, integrating all sections of a personal portfolio into a cohesive 3D desktop experience.
+
 
 🌐 **Live Demo:** [https://samans-os-three.vercel.app/](https://samans-os-three.vercel.app/)  
 
@@ -8,7 +9,7 @@ This OS-style portfolio is connected to Saman Siddiqui's **3D art gallery** and 
 
 ---
 
- ✨ Features
+## ✨ Features
 
 - Desktop-like Interface** with draggable windows and taskbar  
 - About Me Section** describing personal and professional details  
@@ -16,8 +17,9 @@ This OS-style portfolio is connected to Saman Siddiqui's **3D art gallery** and 
 - Contact Me Section** with interactive contact options  
 - Smooth Animations and Interactivity** for a polished user experience  
 - Integrated Portfolio Experience**: everything is deployed as part of a single website
-- 
- 🛠️ Technology Stack
+  
+ ## 🛠️ Technology Stack
+
 - HTML – Structure of the interface and portfolio content  
 - CSS/SASS – Styling, layout, and animations  
 - JavaScript– Interactivity and functionality  
