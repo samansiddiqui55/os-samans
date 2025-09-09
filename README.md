@@ -24,7 +24,7 @@ This OS-style portfolio is connected to Saman Siddiqui's **3D art gallery** and 
 - Bundler – Optional custom bundler for optimized builds  
 - Deployment – Vercel
 - 
- 🎨 Features Overview
+## **🎨 Features Overview**
 
 - **Interactive OS Environment**: Draggable windows, taskbar, and clickable icons  
 - **About Me Section**: Share personal bio, skills, and experience  
